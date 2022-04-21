@@ -1,0 +1,106 @@
+body{
+    background-image: url('https://images.pexels.com/photos/2387819/pexels-photo-2387819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #90b8d9;
+}
+.customStyle{
+    color:rgb(204, 18, 18) !important;
+}
+.main-heading {
+    color: rgb(204, 18, 18);
+    font-size: 26px;
+    font-family: cursive;
+    margin-top: 75px;
+}
+.underline{
+    height:04px;
+    width:4rem;
+    background-color: #f76c27;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.login {
+    border: 1px solid #ddd;
+    padding: 20px 20px;
+    margin-top: 35px;
+    background-image: linear-gradient(#9a86cd45, #9a86cd45);
+    border-radius: 7px;
+}
+.login p {
+    margin-bottom: 40px;
+}
+.loginContains {
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+.login input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #f76c27;
+}
+::-webkit-input-placeholder {
+    color: #90b8d9 !important;
+}
+
+
+
+
+
+/*footer*/
+.footerWrapper {
+    background: dimgrey;
+}
+.footer {
+    padding: 0px 50px;
+    font-family: sans-serif;
+    color: gainsboro;
+}
+.footerContains {
+    margin-top: 5px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.googleStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+.AppStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+
+.serviceWrapper {
+    margin-top: 25px;
+}
+.socialLinksWrapper {
+    padding: 60px 16px;
+    width: 255px;
+    margin: auto;
+}
+.socialLinks {
+    font-size: 28px;
+    margin-right: 36px;
+}
+.socialLinks:last-child {
+    margin-right: 0px;
+}
+.socialLinks a {
+    color: #faab10;
+}
+
+#loading {
+    -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(359deg);
+    }
+}

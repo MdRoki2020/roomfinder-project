@@ -1,0 +1,110 @@
+.customStyle{
+    color:rgb(204, 18, 18) !important;
+}
+.main-heading {
+    color: rgb(204, 18, 18);
+    font-size: 26px;
+    font-family: cursive;
+    margin-top: 75px;
+}
+.underline{
+    height:04px;
+    width:4rem;
+    background-color: #f76c27;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+/*dashboard*/
+.dashboardWrapper{
+    color:white;
+    text-align:center;
+    padding: 0px 15px;
+}
+.singleDashboard {
+    border: 1px solid #ffb400;
+    margin-bottom: 15px;
+}
+.singleDashboard {
+    border: 3px solid #28a745;
+    margin-bottom: 25px;
+    background: darkslategrey;
+    border-left: 33px solid lightslategrey;
+    border-radius: 5px;
+}
+.singleDashboard i {
+    font-size: 21px;
+    color: lightslategrey;
+}
+span.clintMszs {
+    color: #000000b8;
+    margin-left: 15px;
+    background: transparent;
+    border: 3px solid dimgray;
+    padding: 4px 10px;
+    border-radius: 3px;
+    border-left: 32px solid lightslategrey;
+    font-weight: bold;
+}
+span.clintMszs i{
+    color:#000000b8;
+    font-weight: bold;
+}
+
+
+
+/*footer*/
+.footerWrapper {
+    background: dimgrey;
+}
+.footer {
+    padding: 0px 50px;
+    font-family: sans-serif;
+    color: gainsboro;
+}
+.footerContains {
+    margin-top: 5px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.googleStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+.AppStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+
+.serviceWrapper {
+    margin-top: 25px;
+}
+.socialLinksWrapper {
+    padding: 60px 16px;
+    width: 255px;
+    margin: auto;
+}
+.socialLinks {
+    font-size: 28px;
+    margin-right: 36px;
+}
+.socialLinks:last-child {
+    margin-right: 0px;
+}
+.socialLinks a {
+    color: #faab10;
+}
+
+#loading {
+    -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(359deg);
+    }
+}

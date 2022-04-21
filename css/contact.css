@@ -1,0 +1,77 @@
+.customStyle{
+    color:rgb(204, 18, 18) !important;
+}
+.catagories{
+    background:center;
+}
+.main-heading {
+    color: rgb(204, 18, 18);
+    font-size: 26px;
+    font-family: cursive;
+    margin-top: 77px;
+}
+.underline{
+    height:04px;
+    width:4rem;
+    background-color: #f76c27;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+
+
+/*footer*/
+.footerWrapper {
+    background: dimgrey;
+}
+.footer {
+    padding: 0px 50px;
+    font-family: sans-serif;
+    color: gainsboro;
+}
+.footerContains {
+    margin-top: 5px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.googleStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+.AppStore.mt-5 {
+    width: 179px;
+    margin: auto;
+}
+
+.serviceWrapper {
+    margin-top: 25px;
+}
+.socialLinksWrapper {
+    padding: 60px 16px;
+    width: 255px;
+    margin: auto;
+}
+.socialLinks {
+    font-size: 28px;
+    margin-right: 36px;
+}
+.socialLinks:last-child {
+    margin-right: 0px;
+}
+.socialLinks a {
+    color: #faab10;
+}
+
+#loading {
+    -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(359deg);
+    }
+}
