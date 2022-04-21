@@ -52,7 +52,7 @@ require_once('include/links.php');
     </section>
     <section>
         <div class="container">
-            <div class="blogWrapper1 wow slideInLeft">
+            <div class="blogWrapper1 animate__animated animate__zoomIn">
                 <div class="row mb-4">
                     <div class="col-lg-4 d-lg-flex">
                         <div class="card bg-dark singleCard">
@@ -83,7 +83,7 @@ require_once('include/links.php');
                     </div>
                 </div>
             </div>
-            <div class="blogWrapper2 wow slideInRight">
+            <div class="blogWrapper2 animate__animated animate__zoomIn">
                 <div class="row mb-4">
                     <div class="col-lg-4 d-lg-flex">
                         <div class="card bg-dark singleCard">
