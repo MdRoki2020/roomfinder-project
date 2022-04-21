@@ -119,7 +119,7 @@ require_once('include/links.php');
                     <div class="singleBoxImg"><img class="img-thumbnail rounded-circle" src="images/noor.jpg" alt=""/></div>
                     <div class="avaterName"><strong>Noor</strong></div>
                     <div class="ratingIcon"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i></div>
-                    <div class="title">RoomFinder is a good choice for me</div>
+                    <div class="title">Easy to use and better experience</div>
                     <div class="description"><p><i>I'm a student with a small budget, so I love going through Roomster for sharing my room.  It makes finding roommates faster and more efficient.  Roomster is a good choice for me!</i></p></div>
                 </div>
             </div>
@@ -129,7 +129,7 @@ require_once('include/links.php');
                     <div class="singleBoxImg"><img class="img-thumbnail rounded-circle" src="images/nafisa.jpg" alt=""/></div>
                     <div class="avaterName"><strong>Nafisa</strong></div>
                     <div class="ratingIcon"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> </div>
-                    <div class="title">RoomFinder is a good choice for me</div>
+                    <div class="title">Easy to find our destination from roomfinder</div>
                     <div class="description"><p><i>I'm a student with a small budget, so I love going through Roomster for sharing my room.  It makes finding roommates faster and more efficient.  Roomster is a good choice for me!</i></p></div>
                 </div>
             </div>
@@ -139,7 +139,7 @@ require_once('include/links.php');
                     <div class="singleBoxImg"><img class="img-thumbnail rounded-circle" src="images/roki.jpg" alt=""/></div>
                     <div class="avaterName"><strong>Roki</strong></div>
                     <div class="ratingIcon"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i><i class="fa-solid fa-star-half-stroke"></i> </div>
-                    <div class="title">RoomFinder is a good choice for me</div>
+                    <div class="title">RoomFinder is more than better other website</div>
                     <div class="description"><p><i>I'm a student with a small budget, so I love going through Roomster for sharing my room.  It makes finding roommates faster and more efficient.  Roomster is a good choice for me!</i></p></div>
                 </div>
             </div>
