@@ -59,7 +59,7 @@ require_once('include/links.php');
                 <div class='card-body'>
                     <div class='row animate__animated animate__zoomIn'>
                         <div class='col-md-6'>
-                            <h6>Contact Form</h6>
+                            <h6>Contact Form & Write Your Feedback</h6>
                             <hr />
                             <div class='form-group'>
                                 <label class='mb-1'>Full Name</label>
