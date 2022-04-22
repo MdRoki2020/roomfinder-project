@@ -7,7 +7,7 @@
             <div class="col-sm-8">
 
                 <div class="footerContains">
-                    <span>Rs-X is an online shop available in Dhaka, Narayanganj, Chattogram and Rangpur. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.</span>
+                    <span>Roomfinder Destination is an online shop available in Dhaka, Chandpur, Dinajpur and Barishal. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.</span>
                 </div>
                 <div class="serviceWrapper">
                     <div class="row">
