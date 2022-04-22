@@ -21,16 +21,16 @@ require_once('include/links.php');
             </form>
             <ul class="navbar-nav ">
                 <li class="nav-item ">
-                    <a class="nav-link " href="../index.php"><i class="fa-solid fa-house"></i> Home</a>
+                    <a class="nav-link " href="index.php"><i class="fa-solid fa-house"></i> Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link customStyle" href="../roomDetails.php"><i class="fa-solid fa-magnifying-glass"></i> Find Room</a>
+                    <a class="nav-link customStyle" href="roomDetails.php"><i class="fa-solid fa-magnifying-glass"></i> Find Room</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../blog.php"><i class="fa-solid fa-rss"></i> Blog</a>
+                    <a class="nav-link" href="blog.php"><i class="fa-solid fa-rss"></i> Blog</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../contact.php"><i class="fa-solid fa-comment"></i> Contact</a>
+                    <a class="nav-link" href="contact.php"><i class="fa-solid fa-comment"></i> Contact</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
